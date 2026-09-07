@@ -2,10 +2,10 @@ about:
   description: "A jq-like Markdown query language for command-line processing"
   license: MIT
   homepage: https://mqlang.org
-  head: a9fdd3b
+  head: c2f9ea7
   archived: false
   latestVersion: "v0.8.4"
-  collectedAt: 2026-09-07T06:18:50Z
+  collectedAt: 2026-09-07T18:15:18Z
 timeline:
   created: 2025-02-24
   lastCommit: 2026-09-07
@@ -16,10 +16,10 @@ popularity:
   fork: 21
   release: 79
   contributor: 9
-  pullRequest: 2094
+  pullRequest: 2095
   issue: 201
 language:
-  Rust: 6234451
+  Rust: 6235845
   TypeScript: 259687
   jq: 253228
   Shell: 54584
@@ -36,71 +36,71 @@ language:
   Tape: 1376
   Makefile: 1069
   Dockerfile: 372
-totalBytes: 6950852
+totalBytes: 6952246
 recent:
   last30d:
     since: 2026-08-08
     release: 3
-    mergedPR: 124
+    mergedPR: 125
     openPR: 2
     closedIssue: 5
     openIssue: 2
-    commit: 149
+    commit: 150
   last60d:
     since: 2026-07-09
     release: 7
-    mergedPR: 282
+    mergedPR: 283
     openPR: 2
     closedIssue: 18
     openIssue: 3
-    commit: 423
+    commit: 424
   last90d:
     since: 2026-06-09
     release: 11
-    mergedPR: 388
+    mergedPR: 389
     openPR: 2
     closedIssue: 40
     openIssue: 7
-    commit: 663
+    commit: 664
   last180d:
     since: 2026-03-11
     release: 25
-    mergedPR: 760
+    mergedPR: 761
     openPR: 2
     closedIssue: 77
     openIssue: 9
-    commit: 1396
+    commit: 1397
   last360d:
     since: 2025-09-12
     release: 50
-    mergedPR: 1441
+    mergedPR: 1442
     openPR: 2
     closedIssue: 151
     openIssue: 12
-    commit: 3008
+    commit: 3009
   last720d:
     since: 2024-09-17
     release: 79
-    mergedPR: 1961
+    mergedPR: 1962
     openPR: 2
     closedIssue: 189
     openIssue: 12
-    commit: 6418
+    commit: 6420
 total:
   release: 79
-  mergedPR: 1961
+  mergedPR: 1962
   openPR: 2
   closedIssue: 189
   openIssue: 12
-  commit: 6418
+  commit: 6420
 ---
 path: /home/runner/.x-repo/github.com/harehare/mq
-collectedAt: 2026-09-07T06:18:56Z
+collectedAt: 2026-09-07T18:15:24Z
 loc:
   Rust:
-    code: 135812
+    code: 135844
     comments: 3653
-    blanks: 12259
+    blanks: 12263
     files: 269
   Html:
     code: 13250
@@ -223,15 +223,15 @@ loc:
     blanks: 230
     files: 2
 total:
-  code: 180545
-  comments: 16768
-  blanks: 20249
+  code: 180577
+  comments: 16769
+  blanks: 20253
   files: 577
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:18:57+00:00
+  collectedAt: 2026-09-07T18:15:25+00:00
   platform:
     darwin/arm64:
       name:  mq-dbg-aarch64-apple-darwin
