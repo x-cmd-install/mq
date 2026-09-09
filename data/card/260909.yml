@@ -2,35 +2,35 @@ about:
   description: "A jq-like Markdown query language for command-line processing"
   license: MIT
   homepage: https://mqlang.org
-  head: 69f1396
+  head: b860516
   archived: false
   latestVersion: "v0.8.5"
   latestRelease: "v0.8.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:26:13Z
+  collectedAt: 2026-09-09T20:53:14Z
 timeline:
   created: 2025-02-24
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-08
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 1029
+  star: 1028
   watcher: 2
   fork: 22
   release: 80
-  contributor: 9
-  pullRequest: 2109
+  contributor: 10
+  pullRequest: 2116
   issue: 201
 language:
-  Rust: 6945880
+  Rust: 6954563
   TypeScript: 259851
-  jq: 252455
+  jq: 255840
   Shell: 55027
   CSS: 42684
   Kotlin: 40963
   C: 23090
-  Lua: 21491
+  Lua: 22235
   Just: 5796
   Vim Script: 4726
   Nix: 2569
@@ -40,71 +40,71 @@ language:
   Tape: 1376
   Makefile: 1069
   Dockerfile: 372
-totalBytes: 7663673
+totalBytes: 7676485
 recent:
   last30d:
     since: 2026-08-10
     release: 4
-    mergedPR: 126
-    openPR: 3
+    mergedPR: 129
+    openPR: 7
     closedIssue: 5
     openIssue: 2
-    commit: 284
+    commit: 287
   last60d:
     since: 2026-07-11
     release: 8
-    mergedPR: 286
-    openPR: 3
+    mergedPR: 289
+    openPR: 7
     closedIssue: 18
     openIssue: 3
-    commit: 558
+    commit: 561
   last90d:
     since: 2026-06-11
     release: 12
-    mergedPR: 400
-    openPR: 3
+    mergedPR: 403
+    openPR: 7
     closedIssue: 40
     openIssue: 7
-    commit: 798
+    commit: 801
   last180d:
     since: 2026-03-13
     release: 24
-    mergedPR: 756
-    openPR: 3
+    mergedPR: 759
+    openPR: 7
     closedIssue: 77
     openIssue: 9
-    commit: 1531
+    commit: 1534
   last360d:
     since: 2025-09-14
     release: 50
-    mergedPR: 1451
-    openPR: 3
+    mergedPR: 1454
+    openPR: 7
     closedIssue: 151
     openIssue: 12
-    commit: 3143
+    commit: 3146
   last720d:
     since: 2024-09-19
     release: 80
-    mergedPR: 1975
-    openPR: 3
+    mergedPR: 1978
+    openPR: 7
     closedIssue: 189
     openIssue: 12
-    commit: 6567
+    commit: 6573
 total:
   release: 80
-  mergedPR: 1975
-  openPR: 3
+  mergedPR: 1978
+  openPR: 7
   closedIssue: 189
   openIssue: 12
-  commit: 6567
+  commit: 6573
 ---
 path: /home/runner/.x-repo/github.com/harehare/mq
-collectedAt: 2026-09-09T06:26:19Z
+collectedAt: 2026-09-09T20:53:20Z
 loc:
   Rust:
-    code: 152122
-    comments: 3872
-    blanks: 13565
+    code: 152271
+    comments: 3878
+    blanks: 13570
     files: 291
   Html:
     code: 13448
@@ -142,7 +142,7 @@ loc:
     blanks: 293
     files: 8
   Toml:
-    code: 970
+    code: 976
     comments: 13
     blanks: 105
     files: 26
@@ -152,9 +152,9 @@ loc:
     blanks: 154
     files: 23
   Lua:
-    code: 613
-    comments: 94
-    blanks: 152
+    code: 624
+    comments: 101
+    blanks: 151
     files: 7
   Xml:
     code: 377
@@ -227,9 +227,9 @@ loc:
     blanks: 230
     files: 2
 total:
-  code: 197037
-  comments: 17525
-  blanks: 21587
+  code: 197203
+  comments: 17542
+  blanks: 21591
   files: 601
 ---
 
