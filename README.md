@@ -33,7 +33,7 @@ Total: **196,013** lines of code across **345** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.5` (2026-09-08)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-12
 - **Assets in release**: 57
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **196,013** lines of code across **345** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 80 · **Merged PRs**: 1988 · **Open PRs**: 3 · **Closed issues**: 189 · **Open issues**: 12 · **Commits**: 6594
+- **Releases**: 80 · **Merged PRs**: 1991 · **Open PRs**: 3 · **Closed issues**: 189 · **Open issues**: 12 · **Commits**: 6600
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 3 | 126 | 3 | 5 | 2 | 298 |
-| last60d | 2026-07-13 | 7 | 291 | 3 | 12 | 3 | 572 |
-| 90d | 2026-06-13 | 12 | 408 | 3 | 39 | 5 | 812 |
-| last180d | 2026-03-15 | 24 | 766 | 3 | 76 | 9 | 1545 |
-| 360d | 2025-09-16 | 50 | 1455 | 3 | 151 | 12 | 3157 |
-| last720d | 2024-09-21 | 80 | 1988 | 3 | 189 | 12 | 6594 |
+| 30d | 2026-08-13 | 3 | 123 | 3 | 4 | 2 | 301 |
+| last60d | 2026-07-14 | 7 | 285 | 3 | 12 | 3 | 575 |
+| 90d | 2026-06-14 | 12 | 408 | 3 | 39 | 5 | 815 |
+| last180d | 2026-03-16 | 24 | 762 | 3 | 76 | 9 | 1548 |
+| 360d | 2025-09-17 | 50 | 1455 | 3 | 151 | 12 | 3160 |
+| last720d | 2024-09-22 | 80 | 1991 | 3 | 189 | 12 | 6600 |
 
 ## Release assets
 
@@ -134,4 +134,4 @@ Install metadata for mq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:23:06Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T06:07:06Z._
