@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: mq
+  visiblename: mq
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Jq-like command-line tool for markdown processing
 - repo: aur
   srcname: mq-bin
   binname: mq-bin
@@ -17,20 +24,13 @@
   origversion: null
   status: newest
   summary: Jq-like command-line tool for markdown processing
-- repo: homebrew
-  srcname: mq
-  visiblename: mq
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Jq-like command-line tool for markdown processing
 - repo: macports
   srcname: textproc/mq
   binname: mq
   visiblename: mq
-  version: 0.8.4
+  version: 0.8.5
   origversion: null
-  status: outdated
+  status: newest
   summary: A jq-like Markdown query language for command-line processing
   maintainers:
     - jrjsmrtn@github
