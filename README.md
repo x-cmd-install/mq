@@ -14,7 +14,7 @@ x install mq
 
 ## Code insight
 
-Total: **199,524** lines of code across **350** files in the top 5 languages.
+Total: **199,695** lines of code across **350** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -38,22 +38,22 @@ Total: **199,524** lines of code across **350** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,036 · **Forks**: 22 · **Open issues**: 201 · **Contributors**: 10
+- **Stars**: 1,037 · **Forks**: 22 · **Open issues**: 201 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 2114 · **Open PRs**: 1 · **Closed issues**: 192 · **Open issues**: 9 · **Commits**: 7032
+- **Releases**: 82 · **Merged PRs**: 2115 · **Open PRs**: 3 · **Closed issues**: 192 · **Open issues**: 9 · **Commits**: 7035
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 3 | 180 | 1 | 5 | 0 | 411 |
-| last60d | 2026-07-29 | 8 | 318 | 1 | 12 | 1 | 690 |
-| 90d | 2026-06-29 | 11 | 467 | 1 | 21 | 1 | 957 |
-| last180d | 2026-03-31 | 22 | 826 | 1 | 73 | 6 | 1673 |
-| 360d | 2025-10-02 | 51 | 1524 | 1 | 154 | 9 | 3288 |
-| last720d | 2024-10-07 | 82 | 2114 | 1 | 192 | 9 | 7032 |
+| 30d | 2026-08-29 | 3 | 179 | 3 | 5 | 0 | 413 |
+| last60d | 2026-07-30 | 8 | 314 | 3 | 12 | 1 | 692 |
+| 90d | 2026-06-30 | 11 | 463 | 3 | 21 | 1 | 959 |
+| last180d | 2026-04-01 | 22 | 824 | 3 | 71 | 6 | 1675 |
+| 360d | 2025-10-03 | 51 | 1523 | 3 | 154 | 9 | 3290 |
+| last720d | 2024-10-08 | 82 | 2115 | 3 | 192 | 9 | 7035 |
 
 ## Release assets
 
@@ -126,4 +126,4 @@ Install metadata for mq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:36:36Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:47:12Z._
