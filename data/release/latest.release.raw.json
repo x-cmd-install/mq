@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9945376,
       "digest": "sha256:f23dab04290c37ca340c42977fb7c8cce73142d3ad3a3b2e2c0b40b02760488d",
-      "download_count": 34,
+      "download_count": 37,
       "created_at": "2026-10-12T12:56:16Z",
       "updated_at": "2026-10-12T12:56:16Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-aarch64-apple-darwin"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11798968,
       "digest": "sha256:2f6841b9650145c314e455b999b10c29c221b6e9a1e01267a82d4e0e5ef3388c",
-      "download_count": 18,
+      "download_count": 23,
       "created_at": "2026-10-12T12:56:19Z",
       "updated_at": "2026-10-12T12:56:22Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-aarch64-unknown-linux-gnu"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 10782872,
       "digest": "sha256:c26a75985513a854bb88091ccb30217ee21b0d151b4aa67cf5360208e28ee8b1",
-      "download_count": 15,
+      "download_count": 18,
       "created_at": "2026-10-12T12:56:22Z",
       "updated_at": "2026-10-12T12:56:23Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-aarch64-unknown-linux-musl"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 7879168,
       "digest": "sha256:ad328ffa9463162c709efd0c6839fe81038b3a44e16ab79f8e1d742229d39555",
-      "download_count": 23,
+      "download_count": 27,
       "created_at": "2026-10-12T12:56:24Z",
       "updated_at": "2026-10-12T12:56:24Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-check-x86_64-pc-windows-msvc.exe"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 9267184,
       "digest": "sha256:757c5ed859f5ec8a8e9b0b3594990f01ced41ed71e44f7db846295484ca6bf8c",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-12T12:56:26Z",
       "updated_at": "2026-10-12T12:56:27Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-check-x86_64-unknown-linux-gnu"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 16577536,
       "digest": "sha256:c3f07a3a4cb3a804ffa4cd143335efd66836957ab33631ccec65b292f02688b8",
-      "download_count": 25,
+      "download_count": 28,
       "created_at": "2026-10-12T12:56:24Z",
       "updated_at": "2026-10-12T12:56:25Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-crawl-x86_64-pc-windows-msvc.exe"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 11251136,
       "digest": "sha256:d4995d13b14fe99cd5633690a031724f09687d19383aab16e5a6ce603c6268a6",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-12T12:56:16Z",
       "updated_at": "2026-10-12T12:56:17Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-dbg-aarch64-apple-darwin"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 12912128,
       "digest": "sha256:b75390b1101ef01a1253fe5f9aae69554cef367143d73321ef42727e14c62c1a",
-      "download_count": 42,
+      "download_count": 48,
       "created_at": "2026-10-12T12:56:24Z",
       "updated_at": "2026-10-12T12:56:25Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-dbg-x86_64-pc-windows-msvc.exe"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 1034240,
       "digest": "sha256:d12fa9af419e7549ffb06121655eb8fa68f03e1afbc2fb0dcf8693358419d929",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-12T12:56:18Z",
       "updated_at": "2026-10-12T12:56:18Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-fmt-aarch64-pc-windows-msvc.exe"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 1185792,
       "digest": "sha256:82d4461ff02fcd93e979a68cd85d94cd0952800b6718cfaa17bd45f0060aa8f1",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-12T12:56:24Z",
       "updated_at": "2026-10-12T12:56:24Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-fmt-x86_64-pc-windows-msvc.exe"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 10617360,
       "digest": "sha256:169744091d6436a3b1c753ea6cb7350e31368831a46e2fce6c2dbfb659854a06",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-12T12:56:17Z",
       "updated_at": "2026-10-12T12:56:18Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-lsp-aarch64-apple-darwin"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 12282368,
       "digest": "sha256:ce3af59d07f5bc7fdb0ad79a88dd3fdd1022094c5c7eb1d999a77c7bce7e6d7e",
-      "download_count": 45,
+      "download_count": 52,
       "created_at": "2026-10-12T12:56:25Z",
       "updated_at": "2026-10-12T12:56:25Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-lsp-x86_64-pc-windows-msvc.exe"
@@ -2083,7 +2083,7 @@
       "state": "uploaded",
       "size": 11160056,
       "digest": "sha256:ce4aedfea994e20807d6a2bb0721d1a1e9bc3e9565790a4125175e3ffc050184",
-      "download_count": 5,
+      "download_count": 9,
       "created_at": "2026-10-12T12:56:27Z",
       "updated_at": "2026-10-12T12:56:28Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-test-x86_64-unknown-linux-gnu"
@@ -2155,7 +2155,7 @@
       "state": "uploaded",
       "size": 11333120,
       "digest": "sha256:a20dba033047c7af5bdfaf57d57f2f63e5c0a8fcc37be2b6b7020365f887533e",
-      "download_count": 47,
+      "download_count": 51,
       "created_at": "2026-10-12T12:56:25Z",
       "updated_at": "2026-10-12T12:56:26Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-x86_64-pc-windows-msvc.exe"
@@ -2191,7 +2191,7 @@
       "state": "uploaded",
       "size": 13393392,
       "digest": "sha256:cd08146ce7e48ef125b6f96c0345df986e14ca83e910343c245309d58234ad73",
-      "download_count": 230,
+      "download_count": 257,
       "created_at": "2026-10-12T12:56:27Z",
       "updated_at": "2026-10-12T12:56:28Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-x86_64-unknown-linux-gnu"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 13548208,
       "digest": "sha256:7ce1beb6657dd55318db54bc427965025cd5ecde646b5e529f845a2bff8ffc95",
-      "download_count": 106,
+      "download_count": 109,
       "created_at": "2026-10-12T12:56:30Z",
       "updated_at": "2026-10-12T12:56:31Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.9.3/mq-x86_64-unknown-linux-musl"
@@ -2380,5 +2380,17 @@
   "tarball_url": "https://api.github.com/repos/harehare/mq/tarball/v0.9.3",
   "zipball_url": "https://api.github.com/repos/harehare/mq/zipball/v0.9.3",
   "body": "## What's Changed\r\n\r\n### Features\r\n\r\n* ✨ feat(bench): add -L/--directory to search extra module directories by @harehare in https://github.com/harehare/mq/pull/2482\r\n* ✨ feat(bench): show progress bars while running benches by @harehare in https://github.com/harehare/mq/pull/2521\r\n* ✨ feat(lang): recover from broken input in the CST parser by @harehare in https://github.com/harehare/mq/pull/2495\r\n* ✨ feat(lang): add math, array, dict and string builtins by @harehare in https://github.com/harehare/mq/pull/2499\r\n* ✨ feat(lang): add fn: lambda without a parameter list by @harehare in https://github.com/harehare/mq/pull/2528\r\n* ✨ feat(lang): add csv::sort_rows by @harehare in https://github.com/harehare/mq/pull/2556\r\n* ✨ feat(run): treat `-` as stdin in input file arguments by @harehare in https://github.com/harehare/mq/pull/2476\r\n* ✨ feat(run): gate -o/--output behind --allow-write under --sandbox by @harehare in https://github.com/harehare/mq/pull/2494\r\n* ✨ feat(run): show mq-dbg in the repl banner by @harehare in https://github.com/harehare/mq/pull/2557\r\n* ✨ feat(test): add -L option to search extra module directories by @harehare in https://github.com/harehare/mq/pull/2520\r\n* ✨ feat(chrome-extension): add example queries for links, tables, code, sections by @harehare in https://github.com/harehare/mq/pull/2464\r\n* 🧹 chore: remove no-op std feature, add Windows ARM64 binaries, tighten mq-check API by @harehare in https://github.com/harehare/mq/pull/2545\r\n\r\n### Fixes\r\n\r\n* 🐛 fix(mq-check): reduce false positives on dynamic mq code  by @harehare in https://github.com/harehare/mq/pull/2522\r\n* 🐛 fix(lang): limit parser nesting depth to avoid stack overflow by @harehare in https://github.com/harehare/mq/pull/2475\r\n* 🐛 fix(lang): apply binary operator precedence in the CST parser by @harehare in https://github.com/harehare/mq/pull/2504\r\n* 🐛 fix(lang): return none for Markdown selectors on plain dicts by @harehare in https://github.com/harehare/mq/pull/2513\r\n* 🐛 fix(lang): report accurate locations for errors inside string interpolation by @harehare in https://github.com/harehare/mq/pull/2517\r\n* 🐛 fix(lang): give an attr call its own token id by @harehare in https://github.com/harehare/mq/pull/2549\r\n* 🐛 fix(mq-markdown): improve html to markdown conversion quality  by @harehare in https://github.com/harehare/mq/pull/2512\r\n* 🐛 fix(run): include file path in input file read errors by @harehare in https://github.com/harehare/mq/pull/2474\r\n* 🐛 fix(test): keep running after a test errors and group file errors at the end by @harehare in https://github.com/harehare/mq/pull/2555\r\n* fix(builtin): return None from to_h, to_code, to_math when input is None by @opencode13241-eng in https://github.com/harehare/mq/pull/2490\r\n* 🐛 fix(csv): keep 0/false, union dict keys, and escape control chars by @harehare in https://github.com/harehare/mq/pull/2485\r\n* 🐛 fix(json): write inf/NaN as null and fix markdown table edge cases by @harehare in https://github.com/harehare/mq/pull/2486\r\n* 🐛 fix(scripts): pass version to bump_version module functions by @harehare in https://github.com/harehare/mq/pull/2560\r\n* 🐛 fix(toml): fix datetime/inf/nan parsing and emit nested tables as [a.b] by @harehare in https://github.com/harehare/mq/pull/2484\r\n* 🐛 fix(yaml): fix parsing of .inf and non-string keys and improve stringify output by @harehare in https://github.com/harehare/mq/pull/2483\r\n\r\n### Documentation\r\n\r\n* 📝 docs: add MacPorts installation instructions by @harehare in https://github.com/harehare/mq/pull/2473\r\n* 📝 docs: make AGENTS.md specific to this repository by @harehare in https://github.com/harehare/mq/pull/2519\r\n\r\n### Refactoring\r\n\r\n* ♻️ refactor(bench): index sorted durations instead of unwrapping first/last by @harehare in https://github.com/harehare/mq/pull/2551\r\n* ♻️ refactor(help): move builtin docs from mq-lang to mq-help by @harehare in https://github.com/harehare/mq/pull/2535\r\n* ♻️ refactor(help): list feature-gated builtins only when they are enabled by @harehare in https://github.com/harehare/mq/pull/2536\r\n* ♻️ refactor(lang): shrink StackValue from 24 to 16 bytes by @harehare in https://github.com/harehare/mq/pull/2471\r\n* ♻️ refactor(lang): share binary operator precedence between parsers and by @harehare in https://github.com/harehare/mq/pull/2514\r\n* ♻️ refactor(lang): derive suggestion candidates from the builtin registry by @harehare in https://github.com/harehare/mq/pull/2534\r\n* ♻️ refactor(lang)!: make DictMap a newtype over the backing map by @harehare in https://github.com/harehare/mq/pull/2539\r\n* ♻️ refactor(lang): end non-root program bodies at , and closing brackets by @harehare in https://github.com/harehare/mq/pull/2546\r\n* ♻️ refactor(lang): store tokens by value in the token arena by @harehare in https://github.com/harehare/mq/pull/2548\r\n* 🔧 build(run): fail the mq release build when debugger leaks in by @harehare in https://github.com/harehare/mq/pull/2558\r\n\r\n### Performance\r\n\r\n* ⚡perf(mq-check): mq check accuracy and performance by @harehare in https://github.com/harehare/mq/pull/2526\r\n* ⚡ perf(lang): replace the nom lexer with a hand-written one by @harehare in https://github.com/harehare/mq/pull/2505\r\n* ⚡ perf(lang): append to string locals in place and borrow self for builtin calls by @harehare in https://github.com/harehare/mq/pull/2506\r\n* ⚡ perf(lang): thread jumps through jumps and into returns by @harehare in https://github.com/harehare/mq/pull/2507\r\n* ⚡ perf(lang): branch on negated conditions with JumpIfTrue by @harehare in https://github.com/harehare/mq/pull/2509\r\n* ⚡ perf(lang): compile && and || in conditions into direct jumps by @harehare in https://github.com/harehare/mq/pull/2510\r\n* ⚡ perf(lang): compile prefix `!` and `-` to VM opcodes through a UnaryOp node by @harehare in https://github.com/harehare/mq/pull/2511\r\n* ⚡ perf(lang): bind native builtins at compile time with CallNative by @harehare in https://github.com/harehare/mq/pull/2515\r\n* ⚡ perf(lang): update index assignments and array appends in place by @harehare in https://github.com/harehare/mq/pull/2516\r\n* ⚡ perf(vm): reuse scalar bytecode constants by @harehare in https://github.com/harehare/mq/pull/2463\r\n\r\n### Test\r\n\r\n* ✅ test(mq-run): use FIFO instead of Unix socket in atomic_output tests by @harehare in https://github.com/harehare/mq/pull/2472\r\n* test(mq-run): use message helper in test_usage_errors by @opencode13241-eng in https://github.com/harehare/mq/pull/2477\r\n\r\n<details>\r\n<summary>Dependency Updates</summary>\r\n\r\n* chore(deps): bump rand from 0.10.2 to 0.10.3 in the dependencies group by @dependabot[bot] in https://github.com/harehare/mq/pull/2468\r\n* chore(deps): bump taiki-e/install-action from 2.87.15 to 2.87.17 in the dependencies group by @dependabot[bot] in https://github.com/harehare/mq/pull/2469\r\n* chore(deps): bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/harehare/mq/pull/2479\r\n* Revert \"chore(deps): bump the dependencies group with 2 updates\" by @harehare in https://github.com/harehare/mq/pull/2481\r\n* chore(deps): bump the dependencies group with 3 updates by @dependabot[bot] in https://github.com/harehare/mq/pull/2492\r\n* chore(deps): bump the dependencies group with 3 updates by @dependabot[bot] in https://github.com/harehare/mq/pull/2497\r\n* chore(deps): bump the dependencies group across 1 directory with 4 updates by @dependabot[bot] in https://github.com/harehare/mq/pull/2498\r\n* chore(deps): bump smallvec from 1.16.1 to 1.16.2 in the dependencies group by @dependabot[bot] in https://github.com/harehare/mq/pull/2503\r\n* chore(deps): bump the dependencies group with 2 updates by @dependabot[bot] in https://github.com/harehare/mq/pull/2525\r\n* chore(deps): bump rust from 1.98.0-slim to 1.98.1-slim in the dependencies group by @dependabot[bot] in https://github.com/harehare/mq/pull/2530\r\n* chore(deps): bump taiki-e/install-action from 2.87.21 to 2.87.22 in the dependencies group by @dependabot[bot] in https://github.com/harehare/mq/pull/2532\r\n* chore(deps): bump CodSpeedHQ/action from 5.2.1 to 5.4.0 in the dependencies group by @dependabot[bot] in https://github.com/harehare/mq/pull/2543\r\n* chore(deps): bump libc from 0.2.189 to 0.2.190 in the dependencies group by @dependabot[bot] in https://github.com/harehare/mq/pull/2544\r\n* chore(deps-dev): bump the dependencies group in /editors/vscode with 2 updates by @dependabot[bot] in https://github.com/harehare/mq/pull/2465\r\n* chore(deps): bump brace-expansion in /editors/vscode by @dependabot[bot] in https://github.com/harehare/mq/pull/2480\r\n* chore(deps): bump vscode-languageclient from 10.1.1 to 10.1.2 in /editors/vscode in the dependencies group by @dependabot[bot] in https://github.com/harehare/mq/pull/2500\r\n* chore(deps-dev): bump the dependencies group in /editors/vscode with 2 updates by @dependabot[bot] in https://github.com/harehare/mq/pull/2524\r\n* chore(deps-dev): bump shell-quote from 1.10.0 to 1.12.0 in /editors/vscode by @dependabot[bot] in https://github.com/harehare/mq/pull/2533\r\n* chore(deps-dev): bump the dependencies group in /editors/vscode with 2 updates by @dependabot[bot] in https://github.com/harehare/mq/pull/2542\r\n* ⬆️ chore(deps): bump npm dependencies in web packages by @harehare in https://github.com/harehare/mq/pull/2529\r\n* chore(deps-dev): bump the dependencies group in /packages/mq-playground with 2 updates by @dependabot[bot] in https://github.com/harehare/mq/pull/2467\r\n* chore(deps-dev): bump the dependencies group in /packages/mq-playground with 2 updates by @dependabot[bot] in https://github.com/harehare/mq/pull/2478\r\n* chore(deps-dev): bump @babel/core from 7.29.7 to 8.0.6 in /packages/mq-playground in the dependencies group by @dependabot[bot] in https://github.com/harehare/mq/pull/2491\r\n* chore(deps-dev): bump the dependencies group in /packages/mq-playground with 2 updates by @dependabot[bot] in https://github.com/harehare/mq/pull/2496\r\n* chore(deps): bump the dependencies group in /packages/mq-playground with 3 updates by @dependabot[bot] in https://github.com/harehare/mq/pull/2502\r\n* chore(deps-dev): bump the dependencies group in /packages/mq-playground with 2 updates by @dependabot[bot] in https://github.com/harehare/mq/pull/2523\r\n* chore(deps-dev): bump @babel/core from 7.29.7 to 8.0.6 in /packages/mq-playground in the dependencies group by @dependabot[bot] in https://github.com/harehare/mq/pull/2531\r\n* chore(deps-dev): bump @babel/core from 7.29.7 to 8.0.6 in /packages/mq-playground in the dependencies group by @dependabot[bot] in https://github.com/harehare/mq/pull/2538\r\n* chore(deps-dev): bump @babel/core from 7.29.7 to 8.0.6 in /packages/mq-playground in the dependencies group by @dependabot[bot] in https://github.com/harehare/mq/pull/2540\r\n* chore(deps-dev): bump @babel/core from 7.29.7 to 8.0.6 in /packages/mq-playground in the dependencies group by @dependabot[bot] in https://github.com/harehare/mq/pull/2541\r\n* chore(deps-dev): bump the dependencies group in /packages/mq-web with 2 updates by @dependabot[bot] in https://github.com/harehare/mq/pull/2466\r\n* chore(deps-dev): bump vitest from 5.0.1 to 5.0.2 in /packages/mq-web in the dependencies group by @dependabot[bot] in https://github.com/harehare/mq/pull/2501\r\n* chore(deps): bump source-map-js from 1.2.1 to 1.2.2 in /packages/mq-web by @dependabot[bot] in https://github.com/harehare/mq/pull/2527\r\n\r\n</details>\r\n\r\n## New Contributors\r\n\r\n* @opencode13241-eng made their first contribution in https://github.com/harehare/mq/pull/2477\r\n\r\n**Full Changelog**: https://github.com/harehare/mq/compare/v0.9.2...v0.9.3",
+  "reactions": {
+    "url": "https://api.github.com/repos/harehare/mq/releases/410600516/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 1,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 3
 }
