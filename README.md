@@ -14,14 +14,14 @@ x install mq
 
 ## Code insight
 
-Total: **234,553** lines of code across **435** files in the top 5 languages.
+Total: **234,864** lines of code across **436** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 186,323 | 4,381 | 16,018 | 383 |
+| Rust | 186,655 | 4,387 | 16,051 | 384 |
 | Html | 17,307 | 5 | 9 | 4 |
 | Json | 6,695 | 0 | 2 | 19 |
-| Yaml | 6,601 | 0 | 1,710 | 8 |
+| Yaml | 6,596 | 0 | 1,708 | 8 |
 | Tsx | 4,464 | 66 | 350 | 21 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **234,553** lines of code across **435** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.3` (2026-10-12)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 65
 
 ## Popularity
 
-- **Stars**: 1,064 · **Forks**: 24 · **Open issues**: 212 · **Contributors**: 12
+- **Stars**: 1,065 · **Forks**: 24 · **Open issues**: 212 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 84 · **Merged PRs**: 2265 · **Open PRs**: 2 · **Closed issues**: 203 · **Open issues**: 9 · **Commits**: 7700
+- **Releases**: 84 · **Merged PRs**: 2275 · **Open PRs**: 2 · **Closed issues**: 203 · **Open issues**: 9 · **Commits**: 7724
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 4 | 192 | 2 | 10 | 1 | 570 |
-| last60d | 2026-08-23 | 6 | 356 | 2 | 15 | 1 | 1051 |
-| 90d | 2026-07-24 | 10 | 506 | 2 | 23 | 1 | 1313 |
-| last180d | 2026-04-25 | 21 | 872 | 2 | 69 | 5 | 2065 |
-| 360d | 2025-10-27 | 48 | 1582 | 2 | 161 | 9 | 3672 |
-| last720d | 2024-11-01 | 84 | 2265 | 2 | 203 | 9 | 7700 |
+| 30d | 2026-09-23 | 4 | 187 | 2 | 10 | 1 | 584 |
+| last60d | 2026-08-24 | 6 | 361 | 2 | 15 | 1 | 1065 |
+| 90d | 2026-07-25 | 10 | 507 | 2 | 23 | 1 | 1327 |
+| last180d | 2026-04-26 | 21 | 879 | 2 | 69 | 5 | 2079 |
+| 360d | 2025-10-28 | 48 | 1590 | 2 | 161 | 9 | 3686 |
+| last720d | 2024-11-02 | 84 | 2275 | 2 | 203 | 9 | 7724 |
 
 ## Release assets
 
@@ -125,6 +125,14 @@ Total: **234,553** lines of code across **435** files in the top 5 languages.
 | [mq-x86_64-unknown-linux-musl.deb](https://github.com/harehare/mq/releases/download/v0.9.3/mq-x86_64-unknown-linux-musl.deb) | 3.9 MiB | `native/linux/x64/musl` |
 | [mq-x86_64-unknown-linux-musl.rpm](https://github.com/harehare/mq/releases/download/v0.9.3/mq-x86_64-unknown-linux-musl.rpm) | 4.3 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **4** distros on [repology.org](https://repology.org/project/mq). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.9.3` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for mq lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mq` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -134,4 +142,4 @@ Install metadata for mq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T06:06:11Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:12:22Z._
