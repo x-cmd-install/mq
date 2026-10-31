@@ -13,7 +13,7 @@
 - repo: homebrew
   srcname: mq
   visiblename: mq
-  version: 0.9.3
+  version: 0.10.0
   origversion: null
   status: newest
   summary: Jq-like command-line tool for markdown processing
@@ -30,7 +30,7 @@
   visiblename: mq
   version: 0.9.3
   origversion: null
-  status: newest
+  status: outdated
   summary: A jq-like Markdown query language for command-line processing
   maintainers:
     - jrjsmrtn@github
