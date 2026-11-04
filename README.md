@@ -14,11 +14,11 @@ x install mq
 
 ## Code insight
 
-Total: **237,974** lines of code across **451** files in the top 5 languages.
+Total: **238,241** lines of code across **451** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 196,247 | 4,506 | 16,997 | 399 |
+| Rust | 196,514 | 4,508 | 17,010 | 399 |
 | Html | 10,483 | 5 | 54 | 4 |
 | Json | 6,695 | 0 | 2 | 19 |
 | Yaml | 6,563 | 0 | 1,700 | 8 |
@@ -42,18 +42,18 @@ Total: **237,974** lines of code across **451** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 85 · **Merged PRs**: 2404 · **Open PRs**: 4 · **Closed issues**: 209 · **Open issues**: 7 · **Commits**: 8114
+- **Releases**: 85 · **Merged PRs**: 2411 · **Open PRs**: 3 · **Closed issues**: 209 · **Open issues**: 7 · **Commits**: 8129
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 2 | 236 | 4 | 12 | 0 | 534 |
-| last60d | 2026-09-04 | 6 | 447 | 4 | 17 | 0 | 1137 |
-| 90d | 2026-08-05 | 10 | 571 | 4 | 22 | 0 | 1470 |
-| last180d | 2026-05-07 | 21 | 956 | 4 | 75 | 3 | 2236 |
-| 360d | 2025-11-08 | 48 | 1693 | 4 | 166 | 7 | 3833 |
-| last720d | 2024-11-13 | 85 | 2404 | 4 | 209 | 7 | 8114 |
+| 30d | 2026-10-05 | 2 | 236 | 3 | 12 | 0 | 543 |
+| last60d | 2026-09-05 | 6 | 451 | 3 | 17 | 0 | 1146 |
+| 90d | 2026-08-06 | 9 | 576 | 3 | 22 | 0 | 1479 |
+| last180d | 2026-05-08 | 21 | 956 | 3 | 75 | 3 | 2245 |
+| 360d | 2025-11-09 | 48 | 1698 | 3 | 166 | 7 | 3842 |
+| last720d | 2024-11-14 | 85 | 2411 | 3 | 209 | 7 | 8129 |
 
 ## Release assets
 
@@ -142,4 +142,4 @@ Install metadata for mq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:31:07Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:57:42Z._
