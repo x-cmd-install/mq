@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8142,
       "digest": "sha256:b1ce0906cc922cfa90b761a19ce99fa5e34a0544bf85248000e219a74a824197",
-      "download_count": 9,
+      "download_count": 18,
       "created_at": "2026-11-07T14:13:43Z",
       "updated_at": "2026-11-07T14:13:43Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.10.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9797024,
       "digest": "sha256:223516efdc8f3c14f7934b3bc0791c86cc3f2c84bfa1159bb164dee3cccde083",
-      "download_count": 14,
+      "download_count": 21,
       "created_at": "2026-11-07T14:13:43Z",
       "updated_at": "2026-11-07T14:13:44Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.10.1/mq-aarch64-apple-darwin"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11262904,
       "digest": "sha256:8a42a4898fd982b10f17e5bf40991a706d33117f2cf7e8fb66a94da18a5e4023",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-11-07T14:13:47Z",
       "updated_at": "2026-11-07T14:13:48Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.10.1/mq-aarch64-unknown-linux-gnu"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 10599064,
       "digest": "sha256:c533d018b04f3d29bc342b921e629649c6d8fdc2fa626c8c5fe8642047eb1c81",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-11-07T14:13:49Z",
       "updated_at": "2026-11-07T14:13:49Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.10.1/mq-aarch64-unknown-linux-musl"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 7434240,
       "digest": "sha256:98d24c6a79acbab30f8d72371707757bed5aa38c76525b2fe6c785de6e44403c",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-07T14:13:50Z",
       "updated_at": "2026-11-07T14:13:51Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.10.1/mq-check-x86_64-pc-windows-msvc.exe"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 8493400,
       "digest": "sha256:f6e8e5fc2ac71135b1171cd0de2511fad505659a669fd6431c24ee5c3d7a4ad1",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-07T14:13:52Z",
       "updated_at": "2026-11-07T14:13:53Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.10.1/mq-check-x86_64-unknown-linux-gnu"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 8605240,
       "digest": "sha256:bc2f5527323a90d7848879aae26f1d98cf2937a9eefe8a98614010c1bcc46bd9",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-07T14:13:55Z",
       "updated_at": "2026-11-07T14:13:55Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.10.1/mq-check-x86_64-unknown-linux-musl"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 15299584,
       "digest": "sha256:68b2d070879c38ffeab9a5fb185932afd3af450de4afc195a44fc03f3ff9d65e",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-11-07T14:13:50Z",
       "updated_at": "2026-11-07T14:13:51Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.10.1/mq-crawl-x86_64-pc-windows-msvc.exe"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 12699136,
       "digest": "sha256:31314e63bd2fbfa565276dbc07d11ff9d3ad2f7e7e2fa239904a7bd51257b0ed",
-      "download_count": 12,
+      "download_count": 17,
       "created_at": "2026-11-07T14:13:51Z",
       "updated_at": "2026-11-07T14:13:52Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.10.1/mq-dbg-x86_64-pc-windows-msvc.exe"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 10055648,
       "digest": "sha256:1ea111277e3c59597b19a2f7af40b0d96eb336aad974c8359482abb67b39b918",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-11-07T14:13:44Z",
       "updated_at": "2026-11-07T14:13:45Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.10.1/mq-lsp-aarch64-apple-darwin"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 11601920,
       "digest": "sha256:a1caee5d1d6a88e92adbf05821ea5903d4c2515596b6a3b1cddb98db637ab551",
-      "download_count": 11,
+      "download_count": 16,
       "created_at": "2026-11-07T14:13:51Z",
       "updated_at": "2026-11-07T14:13:52Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.10.1/mq-lsp-x86_64-pc-windows-msvc.exe"
@@ -2155,7 +2155,7 @@
       "state": "uploaded",
       "size": 11100160,
       "digest": "sha256:3c2a1ea8bc27af55178045a4d5e1a987a380c2972477456303ac0a9a5d51801f",
-      "download_count": 10,
+      "download_count": 20,
       "created_at": "2026-11-07T14:13:52Z",
       "updated_at": "2026-11-07T14:13:52Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.10.1/mq-x86_64-pc-windows-msvc.exe"
@@ -2191,7 +2191,7 @@
       "state": "uploaded",
       "size": 12873008,
       "digest": "sha256:1c08db356c9c4231df449d634f25802799b5f6ca92a7a3ef1c5c7fc682306464",
-      "download_count": 59,
+      "download_count": 96,
       "created_at": "2026-11-07T14:13:54Z",
       "updated_at": "2026-11-07T14:13:55Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.10.1/mq-x86_64-unknown-linux-gnu"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 13012144,
       "digest": "sha256:63bdd31592f9f8eed10ee53755d80253f17c72a536a9f3b020841e9584b8c3f2",
-      "download_count": 4,
+      "download_count": 10,
       "created_at": "2026-11-07T14:13:57Z",
       "updated_at": "2026-11-07T14:13:57Z",
       "browser_download_url": "https://github.com/harehare/mq/releases/download/v0.10.1/mq-x86_64-unknown-linux-musl"
