@@ -14,11 +14,11 @@ x install mq
 
 ## Code insight
 
-Total: **243,727** lines of code across **463** files in the top 5 languages.
+Total: **243,801** lines of code across **463** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 202,071 | 4,601 | 17,587 | 411 |
+| Rust | 202,145 | 4,603 | 17,591 | 411 |
 | Html | 10,384 | 5 | 55 | 4 |
 | Json | 6,695 | 0 | 2 | 19 |
 | Yaml | 6,571 | 0 | 1,704 | 8 |
@@ -33,27 +33,27 @@ Total: **243,727** lines of code across **463** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.1` (2026-11-07)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-11
 - **Assets in release**: 65
 
 ## Popularity
 
-- **Stars**: 1,080 · **Forks**: 26 · **Open issues**: 216 · **Contributors**: 12
+- **Stars**: 1,081 · **Forks**: 26 · **Open issues**: 216 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 2461 · **Open PRs**: 3 · **Closed issues**: 210 · **Open issues**: 6 · **Commits**: 8336
+- **Releases**: 86 · **Merged PRs**: 2469 · **Open PRs**: 5 · **Closed issues**: 210 · **Open issues**: 6 · **Commits**: 8354
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 3 | 259 | 3 | 12 | 0 | 577 |
-| last60d | 2026-09-11 | 6 | 467 | 3 | 15 | 0 | 1184 |
-| 90d | 2026-08-12 | 9 | 599 | 3 | 22 | 0 | 1569 |
-| last180d | 2026-05-14 | 21 | 979 | 3 | 72 | 3 | 2335 |
-| 360d | 2025-11-15 | 48 | 1728 | 3 | 167 | 6 | 3961 |
-| last720d | 2024-11-20 | 86 | 2461 | 3 | 210 | 6 | 8336 |
+| 30d | 2026-10-12 | 3 | 264 | 5 | 12 | 0 | 587 |
+| last60d | 2026-09-12 | 6 | 474 | 5 | 15 | 0 | 1194 |
+| 90d | 2026-08-13 | 9 | 601 | 5 | 21 | 0 | 1579 |
+| last180d | 2026-05-15 | 21 | 983 | 5 | 72 | 3 | 2345 |
+| 360d | 2025-11-16 | 48 | 1736 | 5 | 167 | 6 | 3971 |
+| last720d | 2024-11-21 | 86 | 2469 | 5 | 210 | 6 | 8354 |
 
 ## Release assets
 
@@ -142,4 +142,4 @@ Install metadata for mq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T09:07:36Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:37:12Z._
