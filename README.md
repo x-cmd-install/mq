@@ -14,14 +14,14 @@ x install mq
 
 ## Code insight
 
-Total: **244,165** lines of code across **463** files in the top 5 languages.
+Total: **244,194** lines of code across **463** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 202,499 | 4,610 | 17,613 | 411 |
+| Rust | 202,595 | 4,607 | 17,619 | 411 |
 | Html | 10,384 | 5 | 55 | 4 |
 | Json | 6,695 | 0 | 2 | 19 |
-| Yaml | 6,571 | 0 | 1,704 | 8 |
+| Yaml | 6,504 | 0 | 1,690 | 8 |
 | Tsx | 4,468 | 66 | 350 | 21 |
 
 ## Source
@@ -42,18 +42,18 @@ Total: **244,165** lines of code across **463** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 86 · **Merged PRs**: 2480 · **Open PRs**: 5 · **Closed issues**: 210 · **Open issues**: 18 · **Commits**: 8388
+- **Releases**: 86 · **Merged PRs**: 2489 · **Open PRs**: 5 · **Closed issues**: 210 · **Open issues**: 18 · **Commits**: 8409
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 273 | 5 | 12 | 12 | 610 |
-| last60d | 2026-09-13 | 6 | 482 | 5 | 15 | 12 | 1217 |
-| 90d | 2026-08-14 | 9 | 603 | 5 | 21 | 12 | 1602 |
-| last180d | 2026-05-16 | 21 | 990 | 5 | 72 | 15 | 2368 |
-| 360d | 2025-11-17 | 48 | 1739 | 5 | 167 | 18 | 3994 |
-| last720d | 2024-11-22 | 86 | 2480 | 5 | 210 | 18 | 8388 |
+| 30d | 2026-10-14 | 2 | 276 | 5 | 12 | 12 | 622 |
+| last60d | 2026-09-14 | 6 | 483 | 5 | 15 | 12 | 1229 |
+| 90d | 2026-08-15 | 9 | 610 | 5 | 21 | 12 | 1614 |
+| last180d | 2026-05-17 | 21 | 996 | 5 | 72 | 15 | 2380 |
+| 360d | 2025-11-18 | 48 | 1748 | 5 | 167 | 18 | 4006 |
+| last720d | 2024-11-23 | 86 | 2489 | 5 | 210 | 18 | 8409 |
 
 ## Release assets
 
@@ -142,4 +142,4 @@ Install metadata for mq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T09:17:20Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:40:45Z._
