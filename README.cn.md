@@ -14,12 +14,12 @@ x install mq
 
 ## 代码洞察
 
-合计: **249,503** 行代码（覆盖前 5 种语言、共 **471** 个文件）。
+合计: **249,333** 行代码（覆盖前 5 种语言、共 **471** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 207,439 | 4,648 | 18,100 | 418 |
-| Html | 10,384 | 5 | 55 | 4 |
+| Rust | 207,648 | 4,651 | 18,116 | 418 |
+| Html | 10,005 | 5 | 21 | 4 |
 | Json | 7,100 | 0 | 2 | 20 |
 | Yaml | 6,556 | 0 | 1,704 | 8 |
 | Tsx | 4,468 | 66 | 350 | 21 |
@@ -32,98 +32,98 @@ x install mq
 
 ## 发布
 
-- **最新版本**: `v0.10.1` (2026-11-07)
-- **最近提交**: 2026-11-20
+- **最新版本**: `v0.10.2` (2026-11-20)
+- **最近提交**: 2026-11-21
 - **Release 含资产**: 65 个
 
 ## 流行度
 
-- **Star**: 1,083 · **Fork**: 24 · **开放 issue**: 228 · **贡献者**: 12
+- **Star**: 1,085 · **Fork**: 24 · **开放 issue**: 228 · **贡献者**: 12
 
 ## 累计统计
 
-- **发布数**: 86 · **已合并 PR**: 2596 · **开放 PR**: 7 · **已关闭 issue**: 221 · **开放 issue**: 7 · **提交数**: 8682
+- **发布数**: 87 · **已合并 PR**: 2602 · **开放 PR**: 7 · **已关闭 issue**: 221 · **开放 issue**: 7 · **提交数**: 8708
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 329 | 7 | 15 | 1 | 638 |
-| last60d | 2026-09-21 | 6 | 536 | 7 | 26 | 1 | 1280 |
-| 90d | 2026-08-22 | 8 | 691 | 7 | 31 | 1 | 1731 |
-| last180d | 2026-05-24 | 20 | 1078 | 7 | 78 | 4 | 2489 |
-| 360d | 2025-11-25 | 46 | 1835 | 7 | 177 | 7 | 4096 |
-| last720d | 2024-11-30 | 86 | 2596 | 7 | 221 | 7 | 8682 |
+| 30d | 2026-10-22 | 3 | 325 | 7 | 15 | 1 | 0 |
+| last60d | 2026-09-22 | 7 | 529 | 7 | 26 | 1 | 0 |
+| 90d | 2026-08-23 | 9 | 693 | 7 | 31 | 1 | 0 |
+| last180d | 2026-05-25 | 21 | 1083 | 7 | 78 | 4 | 0 |
+| 360d | 2025-11-26 | 47 | 1840 | 7 | 177 | 7 | 0 |
+| last720d | 2024-12-01 | 87 | 2602 | 7 | 221 | 7 | 8708 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/harehare/mq/releases/download/v0.10.1/checksums.txt) | 8.0 KiB | `other` |
-| [mq-aarch64-apple-darwin](https://github.com/harehare/mq/releases/download/v0.10.1/mq-aarch64-apple-darwin) | 9.3 MiB | `native/darwin/arm64` |
-| [mq-aarch64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.1/mq-aarch64-pc-windows-msvc.exe) | 9.1 MiB | `native/win/arm64` |
-| [mq-aarch64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.1/mq-aarch64-unknown-linux-gnu) | 10.7 MiB | `native/linux/arm64/glibc` |
-| [mq-aarch64-unknown-linux-gnu.deb](https://github.com/harehare/mq/releases/download/v0.10.1/mq-aarch64-unknown-linux-gnu.deb) | 3.4 MiB | `native/linux/arm64/glibc` |
-| [mq-aarch64-unknown-linux-gnu.rpm](https://github.com/harehare/mq/releases/download/v0.10.1/mq-aarch64-unknown-linux-gnu.rpm) | 4.0 MiB | `native/linux/arm64/glibc` |
-| [mq-aarch64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.1/mq-aarch64-unknown-linux-musl) | 10.1 MiB | `native/linux/arm64/musl` |
-| [mq-aarch64-unknown-linux-musl.deb](https://github.com/harehare/mq/releases/download/v0.10.1/mq-aarch64-unknown-linux-musl.deb) | 3.4 MiB | `native/linux/arm64/musl` |
-| [mq-aarch64-unknown-linux-musl.rpm](https://github.com/harehare/mq/releases/download/v0.10.1/mq-aarch64-unknown-linux-musl.rpm) | 3.9 MiB | `native/linux/arm64/musl` |
-| [mq-check-aarch64-apple-darwin](https://github.com/harehare/mq/releases/download/v0.10.1/mq-check-aarch64-apple-darwin) | 6.2 MiB | `native/darwin/arm64` |
-| [mq-check-aarch64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.1/mq-check-aarch64-pc-windows-msvc.exe) | 6.2 MiB | `native/win/arm64` |
-| [mq-check-aarch64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.1/mq-check-aarch64-unknown-linux-gnu) | 7.2 MiB | `native/linux/arm64/glibc` |
-| [mq-check-aarch64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.1/mq-check-aarch64-unknown-linux-musl) | 6.6 MiB | `native/linux/arm64/musl` |
-| [mq-check-x86_64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.1/mq-check-x86_64-pc-windows-msvc.exe) | 7.1 MiB | `native/win/x64` |
-| [mq-check-x86_64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.1/mq-check-x86_64-unknown-linux-gnu) | 8.1 MiB | `native/linux/x64/glibc` |
-| [mq-check-x86_64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.1/mq-check-x86_64-unknown-linux-musl) | 8.2 MiB | `native/linux/x64/musl` |
-| [mq-crawl-aarch64-apple-darwin](https://github.com/harehare/mq/releases/download/v0.10.1/mq-crawl-aarch64-apple-darwin) | 13.3 MiB | `native/darwin/arm64` |
-| [mq-crawl-aarch64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.1/mq-crawl-aarch64-pc-windows-msvc.exe) | 13.0 MiB | `native/win/arm64` |
-| [mq-crawl-aarch64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.1/mq-crawl-aarch64-unknown-linux-gnu) | 14.7 MiB | `native/linux/arm64/glibc` |
-| [mq-crawl-aarch64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.1/mq-crawl-aarch64-unknown-linux-musl) | 13.9 MiB | `native/linux/arm64/musl` |
-| [mq-crawl-x86_64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.1/mq-crawl-x86_64-pc-windows-msvc.exe) | 14.6 MiB | `native/win/x64` |
-| [mq-crawl-x86_64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.1/mq-crawl-x86_64-unknown-linux-gnu) | 17.4 MiB | `native/linux/x64/glibc` |
-| [mq-crawl-x86_64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.1/mq-crawl-x86_64-unknown-linux-musl) | 17.6 MiB | `native/linux/x64/musl` |
-| [mq-dbg-aarch64-apple-darwin](https://github.com/harehare/mq/releases/download/v0.10.1/mq-dbg-aarch64-apple-darwin) | 10.7 MiB | `native/darwin/arm64` |
-| [mq-dbg-aarch64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.1/mq-dbg-aarch64-pc-windows-msvc.exe) | 10.6 MiB | `native/win/arm64` |
-| [mq-dbg-aarch64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.1/mq-dbg-aarch64-unknown-linux-gnu) | 12.1 MiB | `native/linux/arm64/glibc` |
-| [mq-dbg-aarch64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.1/mq-dbg-aarch64-unknown-linux-musl) | 11.4 MiB | `native/linux/arm64/musl` |
-| [mq-dbg-x86_64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.1/mq-dbg-x86_64-pc-windows-msvc.exe) | 12.1 MiB | `native/win/x64` |
-| [mq-dbg-x86_64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.1/mq-dbg-x86_64-unknown-linux-gnu) | 13.8 MiB | `native/linux/x64/glibc` |
-| [mq-dbg-x86_64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.1/mq-dbg-x86_64-unknown-linux-musl) | 13.9 MiB | `native/linux/x64/musl` |
-| [mq-fmt-aarch64-apple-darwin](https://github.com/harehare/mq/releases/download/v0.10.1/mq-fmt-aarch64-apple-darwin) | 1.0 MiB | `native/darwin/arm64` |
-| [mq-fmt-aarch64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.1/mq-fmt-aarch64-pc-windows-msvc.exe) | 912.5 KiB | `native/win/arm64` |
-| [mq-fmt-aarch64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.1/mq-fmt-aarch64-unknown-linux-gnu) | 1.0 MiB | `native/linux/arm64/glibc` |
-| [mq-fmt-aarch64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.1/mq-fmt-aarch64-unknown-linux-musl) | 1.1 MiB | `native/linux/arm64/musl` |
-| [mq-fmt-x86_64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.1/mq-fmt-x86_64-pc-windows-msvc.exe) | 1.0 MiB | `native/win/x64` |
-| [mq-fmt-x86_64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.1/mq-fmt-x86_64-unknown-linux-gnu) | 1.2 MiB | `native/linux/x64/glibc` |
-| [mq-fmt-x86_64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.1/mq-fmt-x86_64-unknown-linux-musl) | 1.3 MiB | `native/linux/x64/musl` |
-| [mq-lint-aarch64-apple-darwin](https://github.com/harehare/mq/releases/download/v0.10.1/mq-lint-aarch64-apple-darwin) | 5.8 MiB | `native/darwin/arm64` |
-| [mq-lint-aarch64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.1/mq-lint-aarch64-pc-windows-msvc.exe) | 5.8 MiB | `native/win/arm64` |
-| [mq-lint-aarch64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.1/mq-lint-aarch64-unknown-linux-gnu) | 6.7 MiB | `native/linux/arm64/glibc` |
-| [mq-lint-aarch64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.1/mq-lint-aarch64-unknown-linux-musl) | 6.2 MiB | `native/linux/arm64/musl` |
-| [mq-lint-x86_64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.1/mq-lint-x86_64-pc-windows-msvc.exe) | 6.6 MiB | `native/win/x64` |
-| [mq-lint-x86_64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.1/mq-lint-x86_64-unknown-linux-gnu) | 7.5 MiB | `native/linux/x64/glibc` |
-| [mq-lint-x86_64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.1/mq-lint-x86_64-unknown-linux-musl) | 7.7 MiB | `native/linux/x64/musl` |
-| [mq-lsp-aarch64-apple-darwin](https://github.com/harehare/mq/releases/download/v0.10.1/mq-lsp-aarch64-apple-darwin) | 9.6 MiB | `native/darwin/arm64` |
-| [mq-lsp-aarch64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.1/mq-lsp-aarch64-pc-windows-msvc.exe) | 9.7 MiB | `native/win/arm64` |
-| [mq-lsp-aarch64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.1/mq-lsp-aarch64-unknown-linux-gnu) | 10.8 MiB | `native/linux/arm64/glibc` |
-| [mq-lsp-aarch64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.1/mq-lsp-aarch64-unknown-linux-musl) | 10.2 MiB | `native/linux/arm64/musl` |
-| [mq-lsp-x86_64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.1/mq-lsp-x86_64-pc-windows-msvc.exe) | 11.1 MiB | `native/win/x64` |
-| [mq-lsp-x86_64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.1/mq-lsp-x86_64-unknown-linux-gnu) | 12.5 MiB | `native/linux/x64/glibc` |
-| [mq-lsp-x86_64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.1/mq-lsp-x86_64-unknown-linux-musl) | 12.6 MiB | `native/linux/x64/musl` |
-| [mq-test-aarch64-apple-darwin](https://github.com/harehare/mq/releases/download/v0.10.1/mq-test-aarch64-apple-darwin) | 8.0 MiB | `native/darwin/arm64` |
-| [mq-test-aarch64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.1/mq-test-aarch64-pc-windows-msvc.exe) | 8.1 MiB | `native/win/arm64` |
-| [mq-test-aarch64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.1/mq-test-aarch64-unknown-linux-gnu) | 9.1 MiB | `native/linux/arm64/glibc` |
-| [mq-test-aarch64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.1/mq-test-aarch64-unknown-linux-musl) | 8.6 MiB | `native/linux/arm64/musl` |
-| [mq-test-x86_64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.1/mq-test-x86_64-pc-windows-msvc.exe) | 9.2 MiB | `native/win/x64` |
-| [mq-test-x86_64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.1/mq-test-x86_64-unknown-linux-gnu) | 10.4 MiB | `native/linux/x64/glibc` |
-| [mq-test-x86_64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.1/mq-test-x86_64-unknown-linux-musl) | 10.5 MiB | `native/linux/x64/musl` |
-| [mq-x86_64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.1/mq-x86_64-pc-windows-msvc.exe) | 10.6 MiB | `native/win/x64` |
-| [mq-x86_64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.1/mq-x86_64-unknown-linux-gnu) | 12.3 MiB | `native/linux/x64/glibc` |
-| [mq-x86_64-unknown-linux-gnu.deb](https://github.com/harehare/mq/releases/download/v0.10.1/mq-x86_64-unknown-linux-gnu.deb) | 3.9 MiB | `native/linux/x64/glibc` |
-| [mq-x86_64-unknown-linux-gnu.rpm](https://github.com/harehare/mq/releases/download/v0.10.1/mq-x86_64-unknown-linux-gnu.rpm) | 4.2 MiB | `native/linux/x64/glibc` |
-| [mq-x86_64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.1/mq-x86_64-unknown-linux-musl) | 12.4 MiB | `native/linux/x64/musl` |
-| [mq-x86_64-unknown-linux-musl.deb](https://github.com/harehare/mq/releases/download/v0.10.1/mq-x86_64-unknown-linux-musl.deb) | 4.0 MiB | `native/linux/x64/musl` |
-| [mq-x86_64-unknown-linux-musl.rpm](https://github.com/harehare/mq/releases/download/v0.10.1/mq-x86_64-unknown-linux-musl.rpm) | 4.3 MiB | `native/linux/x64/musl` |
+| [checksums.txt](https://github.com/harehare/mq/releases/download/v0.10.2/checksums.txt) | 8.0 KiB | `other` |
+| [mq-aarch64-apple-darwin](https://github.com/harehare/mq/releases/download/v0.10.2/mq-aarch64-apple-darwin) | 9.1 MiB | `native/darwin/arm64` |
+| [mq-aarch64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.2/mq-aarch64-pc-windows-msvc.exe) | 8.9 MiB | `native/win/arm64` |
+| [mq-aarch64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.2/mq-aarch64-unknown-linux-gnu) | 10.4 MiB | `native/linux/arm64/glibc` |
+| [mq-aarch64-unknown-linux-gnu.deb](https://github.com/harehare/mq/releases/download/v0.10.2/mq-aarch64-unknown-linux-gnu.deb) | 3.3 MiB | `native/linux/arm64/glibc` |
+| [mq-aarch64-unknown-linux-gnu.rpm](https://github.com/harehare/mq/releases/download/v0.10.2/mq-aarch64-unknown-linux-gnu.rpm) | 3.9 MiB | `native/linux/arm64/glibc` |
+| [mq-aarch64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.2/mq-aarch64-unknown-linux-musl) | 9.8 MiB | `native/linux/arm64/musl` |
+| [mq-aarch64-unknown-linux-musl.deb](https://github.com/harehare/mq/releases/download/v0.10.2/mq-aarch64-unknown-linux-musl.deb) | 3.3 MiB | `native/linux/arm64/musl` |
+| [mq-aarch64-unknown-linux-musl.rpm](https://github.com/harehare/mq/releases/download/v0.10.2/mq-aarch64-unknown-linux-musl.rpm) | 3.8 MiB | `native/linux/arm64/musl` |
+| [mq-check-aarch64-apple-darwin](https://github.com/harehare/mq/releases/download/v0.10.2/mq-check-aarch64-apple-darwin) | 6.0 MiB | `native/darwin/arm64` |
+| [mq-check-aarch64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.2/mq-check-aarch64-pc-windows-msvc.exe) | 6.0 MiB | `native/win/arm64` |
+| [mq-check-aarch64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.2/mq-check-aarch64-unknown-linux-gnu) | 6.9 MiB | `native/linux/arm64/glibc` |
+| [mq-check-aarch64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.2/mq-check-aarch64-unknown-linux-musl) | 6.4 MiB | `native/linux/arm64/musl` |
+| [mq-check-x86_64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.2/mq-check-x86_64-pc-windows-msvc.exe) | 6.8 MiB | `native/win/x64` |
+| [mq-check-x86_64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.2/mq-check-x86_64-unknown-linux-gnu) | 7.8 MiB | `native/linux/x64/glibc` |
+| [mq-check-x86_64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.2/mq-check-x86_64-unknown-linux-musl) | 7.9 MiB | `native/linux/x64/musl` |
+| [mq-crawl-aarch64-apple-darwin](https://github.com/harehare/mq/releases/download/v0.10.2/mq-crawl-aarch64-apple-darwin) | 13.1 MiB | `native/darwin/arm64` |
+| [mq-crawl-aarch64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.2/mq-crawl-aarch64-pc-windows-msvc.exe) | 12.8 MiB | `native/win/arm64` |
+| [mq-crawl-aarch64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.2/mq-crawl-aarch64-unknown-linux-gnu) | 14.5 MiB | `native/linux/arm64/glibc` |
+| [mq-crawl-aarch64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.2/mq-crawl-aarch64-unknown-linux-musl) | 13.7 MiB | `native/linux/arm64/musl` |
+| [mq-crawl-x86_64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.2/mq-crawl-x86_64-pc-windows-msvc.exe) | 14.3 MiB | `native/win/x64` |
+| [mq-crawl-x86_64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.2/mq-crawl-x86_64-unknown-linux-gnu) | 17.1 MiB | `native/linux/x64/glibc` |
+| [mq-crawl-x86_64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.2/mq-crawl-x86_64-unknown-linux-musl) | 17.3 MiB | `native/linux/x64/musl` |
+| [mq-dbg-aarch64-apple-darwin](https://github.com/harehare/mq/releases/download/v0.10.2/mq-dbg-aarch64-apple-darwin) | 10.4 MiB | `native/darwin/arm64` |
+| [mq-dbg-aarch64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.2/mq-dbg-aarch64-pc-windows-msvc.exe) | 10.4 MiB | `native/win/arm64` |
+| [mq-dbg-aarch64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.2/mq-dbg-aarch64-unknown-linux-gnu) | 11.7 MiB | `native/linux/arm64/glibc` |
+| [mq-dbg-aarch64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.2/mq-dbg-aarch64-unknown-linux-musl) | 11.0 MiB | `native/linux/arm64/musl` |
+| [mq-dbg-x86_64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.2/mq-dbg-x86_64-pc-windows-msvc.exe) | 11.8 MiB | `native/win/x64` |
+| [mq-dbg-x86_64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.2/mq-dbg-x86_64-unknown-linux-gnu) | 13.3 MiB | `native/linux/x64/glibc` |
+| [mq-dbg-x86_64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.2/mq-dbg-x86_64-unknown-linux-musl) | 13.4 MiB | `native/linux/x64/musl` |
+| [mq-fmt-aarch64-apple-darwin](https://github.com/harehare/mq/releases/download/v0.10.2/mq-fmt-aarch64-apple-darwin) | 1.0 MiB | `native/darwin/arm64` |
+| [mq-fmt-aarch64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.2/mq-fmt-aarch64-pc-windows-msvc.exe) | 918.0 KiB | `native/win/arm64` |
+| [mq-fmt-aarch64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.2/mq-fmt-aarch64-unknown-linux-gnu) | 1.1 MiB | `native/linux/arm64/glibc` |
+| [mq-fmt-aarch64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.2/mq-fmt-aarch64-unknown-linux-musl) | 1.1 MiB | `native/linux/arm64/musl` |
+| [mq-fmt-x86_64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.2/mq-fmt-x86_64-pc-windows-msvc.exe) | 1.0 MiB | `native/win/x64` |
+| [mq-fmt-x86_64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.2/mq-fmt-x86_64-unknown-linux-gnu) | 1.2 MiB | `native/linux/x64/glibc` |
+| [mq-fmt-x86_64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.2/mq-fmt-x86_64-unknown-linux-musl) | 1.3 MiB | `native/linux/x64/musl` |
+| [mq-lint-aarch64-apple-darwin](https://github.com/harehare/mq/releases/download/v0.10.2/mq-lint-aarch64-apple-darwin) | 5.6 MiB | `native/darwin/arm64` |
+| [mq-lint-aarch64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.2/mq-lint-aarch64-pc-windows-msvc.exe) | 5.6 MiB | `native/win/arm64` |
+| [mq-lint-aarch64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.2/mq-lint-aarch64-unknown-linux-gnu) | 6.5 MiB | `native/linux/arm64/glibc` |
+| [mq-lint-aarch64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.2/mq-lint-aarch64-unknown-linux-musl) | 6.0 MiB | `native/linux/arm64/musl` |
+| [mq-lint-x86_64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.2/mq-lint-x86_64-pc-windows-msvc.exe) | 6.3 MiB | `native/win/x64` |
+| [mq-lint-x86_64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.2/mq-lint-x86_64-unknown-linux-gnu) | 7.3 MiB | `native/linux/x64/glibc` |
+| [mq-lint-x86_64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.2/mq-lint-x86_64-unknown-linux-musl) | 7.4 MiB | `native/linux/x64/musl` |
+| [mq-lsp-aarch64-apple-darwin](https://github.com/harehare/mq/releases/download/v0.10.2/mq-lsp-aarch64-apple-darwin) | 9.5 MiB | `native/darwin/arm64` |
+| [mq-lsp-aarch64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.2/mq-lsp-aarch64-pc-windows-msvc.exe) | 9.6 MiB | `native/win/arm64` |
+| [mq-lsp-aarch64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.2/mq-lsp-aarch64-unknown-linux-gnu) | 10.7 MiB | `native/linux/arm64/glibc` |
+| [mq-lsp-aarch64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.2/mq-lsp-aarch64-unknown-linux-musl) | 10.1 MiB | `native/linux/arm64/musl` |
+| [mq-lsp-x86_64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.2/mq-lsp-x86_64-pc-windows-msvc.exe) | 10.9 MiB | `native/win/x64` |
+| [mq-lsp-x86_64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.2/mq-lsp-x86_64-unknown-linux-gnu) | 12.2 MiB | `native/linux/x64/glibc` |
+| [mq-lsp-x86_64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.2/mq-lsp-x86_64-unknown-linux-musl) | 12.4 MiB | `native/linux/x64/musl` |
+| [mq-test-aarch64-apple-darwin](https://github.com/harehare/mq/releases/download/v0.10.2/mq-test-aarch64-apple-darwin) | 7.6 MiB | `native/darwin/arm64` |
+| [mq-test-aarch64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.2/mq-test-aarch64-pc-windows-msvc.exe) | 7.6 MiB | `native/win/arm64` |
+| [mq-test-aarch64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.2/mq-test-aarch64-unknown-linux-gnu) | 8.6 MiB | `native/linux/arm64/glibc` |
+| [mq-test-aarch64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.2/mq-test-aarch64-unknown-linux-musl) | 8.0 MiB | `native/linux/arm64/musl` |
+| [mq-test-x86_64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.2/mq-test-x86_64-pc-windows-msvc.exe) | 8.6 MiB | `native/win/x64` |
+| [mq-test-x86_64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.2/mq-test-x86_64-unknown-linux-gnu) | 9.7 MiB | `native/linux/x64/glibc` |
+| [mq-test-x86_64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.2/mq-test-x86_64-unknown-linux-musl) | 9.9 MiB | `native/linux/x64/musl` |
+| [mq-x86_64-pc-windows-msvc.exe](https://github.com/harehare/mq/releases/download/v0.10.2/mq-x86_64-pc-windows-msvc.exe) | 10.3 MiB | `native/win/x64` |
+| [mq-x86_64-unknown-linux-gnu](https://github.com/harehare/mq/releases/download/v0.10.2/mq-x86_64-unknown-linux-gnu) | 11.8 MiB | `native/linux/x64/glibc` |
+| [mq-x86_64-unknown-linux-gnu.deb](https://github.com/harehare/mq/releases/download/v0.10.2/mq-x86_64-unknown-linux-gnu.deb) | 3.8 MiB | `native/linux/x64/glibc` |
+| [mq-x86_64-unknown-linux-gnu.rpm](https://github.com/harehare/mq/releases/download/v0.10.2/mq-x86_64-unknown-linux-gnu.rpm) | 4.1 MiB | `native/linux/x64/glibc` |
+| [mq-x86_64-unknown-linux-musl](https://github.com/harehare/mq/releases/download/v0.10.2/mq-x86_64-unknown-linux-musl) | 11.9 MiB | `native/linux/x64/musl` |
+| [mq-x86_64-unknown-linux-musl.deb](https://github.com/harehare/mq/releases/download/v0.10.2/mq-x86_64-unknown-linux-musl.deb) | 3.9 MiB | `native/linux/x64/musl` |
+| [mq-x86_64-unknown-linux-musl.rpm](https://github.com/harehare/mq/releases/download/v0.10.2/mq-x86_64-unknown-linux-musl.rpm) | 4.2 MiB | `native/linux/x64/musl` |
 
 ## 发行版状态
 
@@ -142,4 +142,4 @@ mq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T08:59:42Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T08:14:25Z._
