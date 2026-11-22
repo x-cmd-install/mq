@@ -14,13 +14,13 @@ x install mq
 
 ## Code insight
 
-Total: **249,333** lines of code across **471** files in the top 5 languages.
+Total: **251,913** lines of code across **478** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 207,648 | 4,651 | 18,116 | 418 |
+| Rust | 210,008 | 4,669 | 18,419 | 425 |
 | Html | 10,005 | 5 | 21 | 4 |
-| Json | 7,100 | 0 | 2 | 20 |
+| Json | 7,166 | 0 | 2 | 20 |
 | Yaml | 6,556 | 0 | 1,704 | 8 |
 | Tsx | 4,468 | 66 | 350 | 21 |
 
@@ -33,7 +33,7 @@ Total: **249,333** lines of code across **471** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.2` (2026-11-20)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-22
 - **Assets in release**: 65
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **249,333** lines of code across **471** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 87 · **Merged PRs**: 2602 · **Open PRs**: 7 · **Closed issues**: 221 · **Open issues**: 7 · **Commits**: 8708
+- **Releases**: 87 · **Merged PRs**: 2610 · **Open PRs**: 6 · **Closed issues**: 221 · **Open issues**: 7 · **Commits**: 8748
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 3 | 325 | 7 | 15 | 1 | 0 |
-| last60d | 2026-09-22 | 7 | 529 | 7 | 26 | 1 | 0 |
-| 90d | 2026-08-23 | 9 | 693 | 7 | 31 | 1 | 0 |
-| last180d | 2026-05-25 | 21 | 1083 | 7 | 78 | 4 | 0 |
-| 360d | 2025-11-26 | 47 | 1840 | 7 | 177 | 7 | 0 |
-| last720d | 2024-12-01 | 87 | 2602 | 7 | 221 | 7 | 8708 |
+| 30d | 2026-10-23 | 3 | 319 | 6 | 12 | 1 | 545 |
+| last60d | 2026-09-23 | 7 | 522 | 6 | 26 | 1 | 1162 |
+| 90d | 2026-08-24 | 9 | 696 | 6 | 31 | 1 | 1727 |
+| last180d | 2026-05-26 | 21 | 1087 | 6 | 78 | 4 | 2494 |
+| 360d | 2025-11-27 | 47 | 1846 | 6 | 177 | 7 | 4092 |
+| last720d | 2024-12-02 | 87 | 2610 | 6 | 221 | 7 | 8748 |
 
 ## Release assets
 
@@ -131,7 +131,7 @@ Reported by **4** distros on [repology.org](https://repology.org/project/mq). **
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.10.1` | ✅ latest |
+| Homebrew | `0.10.2` | ✅ latest |
 
 ## Improve this data
 
@@ -142,4 +142,4 @@ Install metadata for mq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:14:25Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:15:00Z._
