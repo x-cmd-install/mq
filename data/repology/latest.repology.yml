@@ -13,7 +13,7 @@
 - repo: homebrew
   srcname: mq
   visiblename: mq
-  version: 0.10.1
+  version: 0.10.2
   origversion: null
   status: newest
   summary: Jq-like command-line tool for markdown processing
