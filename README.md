@@ -14,11 +14,11 @@ x install mq
 
 ## Code insight
 
-Total: **252,896** lines of code across **482** files in the top 5 languages.
+Total: **253,216** lines of code across **482** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 210,875 | 4,674 | 18,484 | 429 |
+| Rust | 211,191 | 4,679 | 18,510 | 429 |
 | Html | 10,005 | 5 | 21 | 4 |
 | Json | 7,184 | 0 | 2 | 20 |
 | Yaml | 6,608 | 0 | 1,718 | 8 |
@@ -42,18 +42,18 @@ Total: **252,896** lines of code across **482** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 87 · **Merged PRs**: 2621 · **Open PRs**: 5 · **Closed issues**: 221 · **Open issues**: 11 · **Commits**: 8783
+- **Releases**: 87 · **Merged PRs**: 2627 · **Open PRs**: 4 · **Closed issues**: 221 · **Open issues**: 11 · **Commits**: 8802
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 3 | 309 | 5 | 11 | 5 | 571 |
-| last60d | 2026-09-25 | 5 | 510 | 5 | 26 | 5 | 1188 |
-| 90d | 2026-08-26 | 9 | 696 | 5 | 31 | 5 | 1753 |
-| last180d | 2026-05-28 | 20 | 1085 | 5 | 75 | 8 | 2520 |
-| 360d | 2025-11-29 | 47 | 1853 | 5 | 177 | 11 | 4118 |
-| last720d | 2024-12-04 | 87 | 2621 | 5 | 221 | 11 | 8783 |
+| 30d | 2026-10-26 | 3 | 302 | 4 | 11 | 5 | 584 |
+| last60d | 2026-09-26 | 5 | 514 | 4 | 26 | 5 | 1201 |
+| 90d | 2026-08-27 | 8 | 697 | 4 | 31 | 5 | 1766 |
+| last180d | 2026-05-29 | 20 | 1088 | 4 | 75 | 8 | 2533 |
+| 360d | 2025-11-30 | 47 | 1851 | 4 | 177 | 11 | 4131 |
+| last720d | 2024-12-05 | 87 | 2627 | 4 | 221 | 11 | 8802 |
 
 ## Release assets
 
@@ -125,14 +125,6 @@ Total: **252,896** lines of code across **482** files in the top 5 languages.
 | [mq-x86_64-unknown-linux-musl.deb](https://github.com/harehare/mq/releases/download/v0.10.2/mq-x86_64-unknown-linux-musl.deb) | 3.9 MiB | `native/linux/x64/musl` |
 | [mq-x86_64-unknown-linux-musl.rpm](https://github.com/harehare/mq/releases/download/v0.10.2/mq-x86_64-unknown-linux-musl.rpm) | 4.2 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/mq). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.10.2` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for mq lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mq` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -142,4 +134,4 @@ Install metadata for mq lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:06:18Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:57:36Z._
